@@ -33,8 +33,6 @@ You will need to have very high quality rotating proxies to use the bot. My pers
 
 Each vote website requires a captcha to be solved before registering your partial vote. To bypass these automatically, you should sign up to [2captcha](https://2captcha.com/) and paste your API key into the API_KEY variable. Next, you will need to download [chromedriver](https://chromedriver.chromium.org/downloads) and paste the path to the file under path_to_chromedriver. You will also need to manually sign up for as many mule accounts on Roatpkz as you'd like. 
 
-Finally, you will need to pip install all of the packages in requirements.txt [requirements.txt].
-
 
 # 2captcha Roadblocks
 
