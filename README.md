@@ -4,6 +4,13 @@
 I have been using this script on autopilot for about three years now, but I don't have time to harvest any of the mules or avoid consistant RWT bans anymore, so I'd like to pass it on to whoever else would like to continue wrecking their economy. 
 
 
+# Profitability Analysis
+
+Each vote gives each mule one vote box and one vote ticket. With 55 mules and voting twice per day (one every 12 hours), each mule gains two vote boxes and two vote tickets every day, stacking in their queue until claimed. Since vote boxes are worth ~900pkp and vote points are worth ~1500pkp, this will be netting a total of 264,000pkp minted out of thin air every day, assuming no bans and no RWT issues.
+
+The current price is about 10m OSRS for every 100k RoatPkz PKP, and the current OSRS GP price is about $0.45 USD per 1m. This amounts to about $11.88 USD per day, all automatic except for harvests. If you have higher quality rotating proxies, more mules, and more time to harvest, you may get much higher profits than mine.
+
+
 # Features
 
 **Completely Automated**
@@ -20,12 +27,6 @@ RSPS-List rejects normal recaptcha tokens, and decide to change them somewhat to
 
 This bot can run concurrently with all of your mules, voting for every one of them all at once, meaning you don't have to risk banning your main/RWTing account. If you have more than 20 bots though, I do reccomend buying a VPS with an AMD Epyc/Threadripper (you only need to rent it for about 10 minutes twice a day, very cheap!) with sufficient RAM to keep all of the chrome tabs running smoothly. Two sites need to be loaded for each bot (roatpkz vote claim and the current voting site), so with 50 bots, you will need to be able to run 100 chrome tabs without paging.
 
-
-# Profitability Analysis
-
-Each vote gives each mule one vote box and one vote ticket. With 55 mules and voting twice per day (one every 12 hours), each mule gains two vote boxes and two vote tickets every day, stacking in their queue until claimed. Since vote boxes are worth ~900pkp and vote points are worth ~1500pkp, this will be netting a total of 264,000pkp minted out of thin air every day, assuming no bans and no RWT issues.
-
-The current price is about 10m OSRS for every 100k RoatPkz PKP, and the current OSRS GP price is about $0.45 USD per 1m. This amounts to about $11.88 USD per day, all automatic except for harvests. If you have higher quality rotating proxies, more mules, and more time to harvest, you may get much higher profits than mine.
 
 # How To Use
 
