@@ -7,9 +7,11 @@ I have been using this script on autopilot for about three years now, but I don'
 # Features
 
 **Completely Automated**
+
 The bot votes on the required voting websites, then loops back to the Roatpkz website and auto-claims the vote for your mule. No intervention is required.
 
 **Anti-Anti Botting Measures**
+
 Runelocus has 10-second countdown timer before the captcha shows up that slows down the bot significantly. Weirdly though, they download the captcha immiedietly as you load the website. The bot exploits this by ignoring the countdown and sniffing the captcha straight from the chromedriver network requests tab.
 
 RSPS-List rejects normal recaptcha tokens, and decide to change them somewhat to their own "format" by POSTing it to their PHP script and using the response as the token. To work around this, the bot simply encodes it's own 2captcha response through their own channel and submits it just like their actual website does.
