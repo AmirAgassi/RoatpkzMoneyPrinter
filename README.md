@@ -39,7 +39,8 @@ Finally, you will need to pip install all of the packages in requirements.txt [r
 The workers at 2captcha are great at solving Google's recaptcha and such, but they don't seem to be very good at specifically the custom request for Runelocus's captcha. Here's an example of what they are given:
 
 **How many video game objects are shown over the handwashing image? (1 to 5, objects can overlap)**
-[img]
+
+![](https://i.gyazo.com/057ab4181b01c4149a7729ad6fae9080.png)
 
 The answer is 4, but workers who aren't very familiar with video game objects might not see the difference between the lamp and the log and therefore answer "3". This happens a lot due to overlapping objects, leading the success rate to be about 40% in my experience. 
 
