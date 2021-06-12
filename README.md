@@ -8,7 +8,9 @@ I have been using this script on autopilot for about three years now, but I don'
 
 Each vote gives each mule one vote box and one vote ticket. With 55 mules and voting twice per day (one every 12 hours), each mule gains two vote boxes and two vote tickets every day, stacking in their queue until claimed. Since vote boxes are worth ~900pkp and vote points are worth ~1500pkp, this will be netting a total of 264,000pkp minted out of thin air every day, assuming no bans and no RWT issues.
 
-The current price is about 10m OSRS for every 100k RoatPkz PKP, and the current OSRS GP price is about $0.45 USD per 1m. This amounts to about $11.88 USD per day, all automatic except for harvests. If you have higher quality rotating proxies, more mules, and more time to harvest, you may get much higher profits than mine.
+The current price is about 10m OSRS for every 100k RoatPkz PKP, and the current OSRS GP price is about $0.45 USD per 1m. This amounts to about $11.88 USD per day, all automatic except for harvests. 
+
+If you have higher quality rotating proxies, more mules, and more time to harvest, you may get much higher profits than mine.
 
 
 # Features
