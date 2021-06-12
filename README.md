@@ -4,7 +4,7 @@
 I have been using this script on autopilot for about three years now, but I don't have time to harvest any of the mules or avoid consistant RWT bans anymore, so I'd like to pass it on to whoever else would like to continue wrecking their economy. 
 
 
-# Profitability Analysis
+# Profitability Analysis 
 
 Each vote gives each mule one vote box and one vote ticket. With 55 mules and voting twice per day (one every 12 hours), each mule gains two vote boxes and two vote tickets every day, stacking in their queue until claimed. Since vote boxes are worth ~900pkp and vote points are worth ~1500pkp, this will be netting a total of 264,000pkp minted out of thin air every day, assuming no bans and no RWT issues.
 
